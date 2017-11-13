@@ -2,9 +2,31 @@ h1{
 	color: white;
 	font-size: 50px;
 	text-align: center;
+    font-family: Cooper Black;
 }
 
 body {
 	background-color: #f9c737;
 	max-width: 500px;
+    position: center;
+}
+img{
+	border-color: white;
+	padding: 12px;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 8px;
+}
+button {
+    background-color: rgba(255,255,255,0.4);
+    border: white;
+    color: black;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    border-radius: 8px;
+    position: center;
 }
